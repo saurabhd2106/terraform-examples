@@ -3,5 +3,5 @@ resource "azurerm_resource_group" "resource-group" {
   location = var.location
   tags = var.tags
 
-  count = 5
+  count = 3
 }
