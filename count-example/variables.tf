@@ -1,6 +1,3 @@
-variable "resourceGroupName" {
-  
-}
 
 variable "tags" {
   
