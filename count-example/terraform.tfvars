@@ -1,4 +1,3 @@
-resourceGroupName = "test-resource-group"
 tags = {
     "env" = "test"
     }
